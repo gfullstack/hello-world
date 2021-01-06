@@ -2,4 +2,4 @@
 Repositório de teste.
 
 Hi Humans!
-Estudando githup, sou programador full-stack.
+Estudando Github, sou programador full-stack.
